@@ -1,0 +1,9 @@
+mysql database 
+123456
+
+use bbms;
+
+there are two tables;
+
+use donor/stock;
+desc donor desc stock;
